@@ -1,0 +1,1 @@
+Node.js is popular for its scalability, flexibility, and efficiency in handling large amounts of concurrent connections.

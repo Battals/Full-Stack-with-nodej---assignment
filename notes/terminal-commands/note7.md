@@ -1,0 +1,1 @@
+npm install - This command will install all the dependencies listed in the package.json file of your Node.js project.

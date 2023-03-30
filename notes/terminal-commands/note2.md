@@ -1,0 +1,1 @@
+node app.js - This command will run the Node.js application named app.js.

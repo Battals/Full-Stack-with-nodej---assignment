@@ -1,0 +1,1 @@
+npm run dev - Run the application in development mode

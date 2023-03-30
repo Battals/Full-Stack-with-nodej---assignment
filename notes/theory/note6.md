@@ -1,0 +1,1 @@
+Node.js and ECMAScript (ES) are related because Node.js is built on top of the V8 JavaScript engine, which implements the ECMAScript standard.

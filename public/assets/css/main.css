@@ -1,0 +1,89 @@
+
+.navbar {
+    background-color: #333;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    gap: 20px;
+}
+
+.navbar-nav a:hover {
+    background-color: #555;
+}
+
+.navbar a {
+    font-size: 18px;
+}
+
+.navbar {
+    border-radius: 0;
+}
+
+.navbar .active {
+    color: #fff;
+    background-color: #555;
+}
+
+.navbar .active:hover {
+    background-color: #555;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+button[type="submit"] {
+    padding: 1rem 2rem;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #0069d9;
+}
+
+.table-responsive{
+width: 800px;
+}
